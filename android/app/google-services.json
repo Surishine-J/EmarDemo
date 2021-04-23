@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922095166873",
+    "project_id": "emardemo-cecef",
+    "storage_bucket": "emardemo-cecef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922095166873:android:211757fa848146b5d49f08",
+        "android_client_info": {
+          "package_name": "co.th.supremeproducts.emar_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922095166873-nke22ls6soln1ljuth09863eoj8dms4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1XOtuyTnrv4FhtAvcHHpuwiwxitW1g_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922095166873-nke22ls6soln1ljuth09863eoj8dms4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
